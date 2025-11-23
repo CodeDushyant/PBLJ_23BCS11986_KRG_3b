@@ -72,6 +72,3 @@ Working with files and collections
 
 Building modular, readable Java programs
 
-📄 Conclusion
-
-These experiments helped me build a strong foundation in Java programming and understand how Java is used in real-world applications. This repository will continue to grow as I practice more advanced concepts.
